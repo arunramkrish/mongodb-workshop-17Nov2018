@@ -2,8 +2,8 @@
 Mongodb workshop
 
 # Setup MongoDB
-Latest Version (4.x) https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
-Older Versions (3.x) https://docs.mongodb.com/v3.6/tutorial/install-mongodb-on-windows/#start-mdb-edition-as-a-windows-service
+- Latest Version (4.x) https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+- Older Versions (3.x) https://docs.mongodb.com/v3.6/tutorial/install-mongodb-on-windows/#start-mdb-edition-as-a-windows-service
 
 Set Environment variable to MONGO EXE files
 
