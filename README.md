@@ -19,3 +19,4 @@ mongo <database name>
   or 
   > use <database name>
   
+  - Shell reference https://docs.mongodb.com/manual/reference/mongo-shell/
