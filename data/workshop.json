@@ -1,0 +1,74 @@
+[
+ {
+   "title": "MongoDB Workshop",
+   "taskType": "workshop",
+   "allDayEvent": true,
+   "startDate": "17-11-2018",
+   "startTime": "09:30",
+   "endDate": "17-11-2018",
+   "endTime": "16:30",
+   "location": "IT Lab",
+   "description": "One day workshop on MongoDB",
+   "parentWorkshop": ""
+ },
+ {
+   "title": "Intro to MongoDB and Install and Setup MongoDb",
+   "taskType": "workshop_agenda",
+   "allDayEvent": false,
+   "startDate": "17-11-2018",
+   "startTime": "09:30",
+   "endDate": "17-11-2018",
+   "endTime": "11:30",
+   "location": "IT Lab",
+   "description": "Intro to MongoDB and Install and Setup MongoDb",
+   "parentWorkshop": "MongoDB Workshop"
+ },
+ {
+   "title": "Mongo Shell overview",
+   "taskType": "workshop_agenda",
+   "allDayEvent": false,
+   "startDate": "17-11-2018",
+   "startTime": "11:45",
+   "endDate": "17-11-2018",
+   "endTime": "13:00",
+   "location": "IT Lab",
+   "description": "Mong Shell commands",
+   "parentWorkshop": "MongoDB Workshop"
+ },
+ {
+   "title": "Connecting to MongoDB from Enterprise Applications",
+   "taskType": "workshop_agenda",
+   "allDayEvent": false,
+   "startDate": "17-11-2018",
+   "startTime": "13:45",
+   "endDate": "17-11-2018",
+   "endTime": "15:00",
+   "location": "IT Lab",
+   "description": "MongoDB drivers - schema, schemaLess",
+   "parentWorkshop": "MongoDB Workshop"
+ },
+ {
+   "title": "Data Analytics with MongoDB and MongoDB Admin",
+   "taskType": "workshop_agenda",
+   "allDayEvent": false,
+   "startDate": "17-11-2018",
+   "startTime": "15:00",
+   "endDate": "17-11-2018",
+   "endTime": "16:15",
+   "location": "IT Lab",
+   "description": "Aggregation operations, import / export, Backup / Restore",
+   "parentWorkshop": "MongoDB Workshop"
+ },
+ {
+   "title": "Concluding remarks",
+   "taskType": "workshop_agenda",
+   "allDayEvent": false,
+   "startDate": "17-11-2018",
+   "startTime": "16:15",
+   "endDate": "17-11-2018",
+   "endTime": "16:30",
+   "location": "IT Lab",
+   "description": "Advanced topics in MongoDB",
+   "parentWorkshop": "MongoDB Workshop"
+ }
+]

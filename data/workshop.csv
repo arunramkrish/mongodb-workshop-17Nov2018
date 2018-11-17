@@ -1,0 +1,7 @@
+title,taskType,allDayEvent,startDate,startTime,endDate,endTime,location,description,parentWorkshop
+MongoDB Workshop,workshop,TRUE,17-11-2018,09:30,17-11-2018,16:30,IT Lab,One day workshop on MongoDB,
+Intro to MongoDB and Install and Setup MongoDb,workshop_agenda,FALSE,17-11-2018,09:30,17-11-2018,11:30,IT Lab,Intro to MongoDB and Install and Setup MongoDb,MongoDB Workshop
+Mongo Shell overview,workshop_agenda,FALSE,17-11-2018,11:45,17-11-2018,13:00,IT Lab,Mong Shell commands,MongoDB Workshop
+Connecting to MongoDB from Enterprise Applications,workshop_agenda,FALSE,17-11-2018,13:45,17-11-2018,15:00,IT Lab,"MongoDB drivers - schema, schemaLess",MongoDB Workshop
+Data Analytics with MongoDB and MongoDB Admin,workshop_agenda,FALSE,17-11-2018,15:00,17-11-2018,16:15,IT Lab,"Aggregation operations, import / export, Backup / Restore",MongoDB Workshop
+Concluding remarks,workshop_agenda,FALSE,17-11-2018,16:15,17-11-2018,16:30,IT Lab,Advanced topics in MongoDB,MongoDB Workshop
